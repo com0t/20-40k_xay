@@ -1,0 +1,122 @@
+.fv-logo svg {
+    width: 60px;
+}
+
+.fv-review .fv-review-content {
+    padding-bottom: 10px;
+}
+
+.fv-review .fv-review-content .fv-review-desc {
+    margin: 0.5em 0;
+    padding-left: 20px;
+}
+
+.fv-review .fv-review-content .fv-notic-link-wrapper {
+    padding-left: 7px;
+}
+
+.fv-admin-topbar .fv-review {
+    display: flex;
+    align-items: center;
+    padding-bottom: 10px;
+}
+
+.fv-admin-topbar .fv-review svg {
+    width: 40px;
+    margin-right: 10px;
+}
+
+.fv-admin-topbar .fv-review h1 {
+    margin: 0 10px 0 0;
+}
+
+.fv-review .fv-review-content {
+    padding-bottom: 10px;
+}
+
+.fv-review .fv-review-content .fv-review-desc {
+    margin: 0.5em 0;
+    padding-left: 20px;
+}
+
+.fv-review .fv-review-content .fv-notic-link-wrapper {
+    padding-left: 7px;
+}
+
+.fv-notice-link {
+    margin: 10px;
+}
+
+.fv-notice-link span {
+    text-decoration: none;
+    margin-right: 4px;
+}
+
+.fv-form-id-debug {
+    font-size: 10px;
+    padding: 5px;
+    background: #ddd;
+    border-radius: 20px;
+    margin-left: 10px;
+}
+
+.fv-disabled-plugin {
+    font-weight: 600;
+    display: inline-block;
+    color: red;
+}
+
+.fv-review,
+.fv-pro-box,
+.fv-notice {
+    display: flex;
+    align-items: center;
+    margin: 10px 20px 2px 0px;
+    position: relative;
+    padding: 10px;
+}
+
+.fv-pro-box .notice-dismiss {
+    text-decoration: none;
+}
+
+.fv-pro-box div,
+.fv-notice div {
+    display: flex;
+    align-items: center;
+}
+
+.fv-pro-box .fv-go-pro-button,
+.fv-notice-action {
+    margin-left: 20px;
+}
+
+.fv-review .fv-logo,
+.fv-pro-box .fv-logo {
+    margin-right: 10px;
+}
+
+.fv-review .fv-logo svg,
+.fv-pro-box .fv-logo svg {
+    width: 60px;
+}
+
+.fv-logo.fv-hide-logo {
+    display: none;
+}
+
+.fv-pro-box .notice .notice-success {
+    display: flex;
+    padding: 1rem;
+
+}
+
+.fv-pro-box .notice .notice-success .fv-pro-content .fv-pro-content-message {
+    margin-bottom: 1rem;
+    display: inline-block;
+}
+
+.fv-pro-box .notice .notice-success svg {
+    width: 3.5rem;
+    margin-right: 1rem;
+}
